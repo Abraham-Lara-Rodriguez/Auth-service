@@ -1,6 +1,6 @@
 # Auth Service
 
-A secure authentication monolite modules built with **Spring Boot 4.0.1** and **JWT tokens**. This service provides user authentication, authorization, and management capabilities with PostgreSQL as the database backend.
+A secure authentication monolito modular built with **Spring Boot 4.0.1** and **JWT tokens**. This service provides user authentication, authorization, and management capabilities with PostgreSQL as the database backend.
 
 ## 🚀 Features
 
